@@ -1,4 +1,3 @@
-<img height="300" width="500" src="ImageIndex.png"/>
 
 # Medical Recommendation System
 
@@ -6,7 +5,7 @@
 
 To develop a personalized medicine recommendation system using machine learning algorithms. treatment plans based on individual patient characteristics, genetic data, and medical history. Improve patient outcomes by providing more effective and targeted medical interventions.
 
-<b> Functionality & Concepts used : </b>
+# Functionality & Concepts 
 
 <b>Programming Languages: </b>  
 - Python: Widely used for machine learning and data science
@@ -15,7 +14,12 @@ To develop a personalized medicine recommendation system using machine learning 
 - Scikit-learn: Provides simple and efficient tools for data analysis and modelling.
 - TensorFlow and PyTorch: Deep learning frameworks for building and training neural networks.
 
-<b>Libraries Used : </b>
+# Screenshots
+
+<img height="300" width="500" src="ImageIndex.png"/>
+
+
+# Libraries Used
 - Sci-Kit Learn :It provides a selection of efficient tools for machine learning and statistical modeling including classification, regression, clustering and dimensionality reduction via a consistence interface in Python.
 - Matplotlib :It is a library that is specifically designed to do effective data visualization.
 - Numpy : It is a library which works with arrays.
